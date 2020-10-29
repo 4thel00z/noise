@@ -1,5 +1,5 @@
 # notification
-
+![notification-tests](https://github.com/4thel00z/notification/workflows/Test/badge.svg)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 ## Motivation
