@@ -1,5 +1,7 @@
 # notification
 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
 ## Motivation
 
 A simple cross plattform cli for creating desktop notification.
@@ -35,3 +37,6 @@ Usage of ./notification:
 ```
 notification -message "Process xyz is ready" -title "Ready"
 ```
+## License
+
+This project is licensed under the GPL-3 license.
