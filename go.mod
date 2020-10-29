@@ -1,4 +1,4 @@
-module github.com/4thel00z/noise
+module github.com/4thel00z/notification
 
 go 1.15
 
