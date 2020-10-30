@@ -2,10 +2,13 @@
 ![notification-tests](https://github.com/4thel00z/notification/workflows/Test/badge.svg)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
+
 ## Motivation
 
 A simple cross plattform cli for creating desktop notification.
 Useful tool if used in congration with other tools, to show a process has finished executing etc.
+
+![screenshot](https://github.com/4thel00z/notification/raw/assets/notification.png)
 
 ## Installation
 
