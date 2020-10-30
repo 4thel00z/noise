@@ -8,7 +8,7 @@
 A simple cross plattform cli for creating desktop notification.
 Useful tool if used in congration with other tools, to show a process has finished executing etc.
 
-![screenshot](https://github.com/4thel00z/notification/raw/assets/notification.png)
+![screenshot](https://github.com/4thel00z/notification/raw/master/assets/notification.png)
 
 ## Installation
 
